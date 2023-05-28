@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+header{
+    display: flex;
+    gap: 60px;
+    padding-left: 20px;
+    align-items: center;
+    padding-top: 30px;
+
+}
+main{
+    margin-top: 50px;
+}
